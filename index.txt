@@ -1,1 +1,2 @@
 Hello in master branch
+Change made in the feature branch.
